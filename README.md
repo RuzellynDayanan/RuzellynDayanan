@@ -1,7 +1,7 @@
-## Hi there 👋
-My name is Ruzellyn, and I'm a university student taking up Computer Science, interested in web development and  AI applications!
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
+## Hi, I'm Ruzellyn ✨
+
+- 🔭 Computer student at University of Cebu Lapu-Lapu and Mandaue
+- 🌱 
 
 <!--
 **RuzellynDayanan/RuzellynDayanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
